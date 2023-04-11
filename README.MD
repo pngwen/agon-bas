@@ -1,4 +1,5 @@
-These are programs that I have converted to run on the Agon Light
+These are programs that I have converted to run on the [Agon
+Light](https://www.thebyteattic.com/p/agon.html)
 computer which uses BBC BASIC. These come from my collection, which is
 mostly centered around Microsoft-Based dialects. So these programs
 required just a little tweaking to run. I also have some original 
@@ -53,7 +54,8 @@ Original Programs
   hands on a monitor or assembler and I wanted to play with machine
   code. I really converted this one just to get a feel for BBC BASIC.
   On the Agon light, this program is not as needed because BBC BASIC
-  has a built-in assembler and there is also the wonderful ez80asm
+  has a built-in assembler and there is also the wonderful
+  [ez80asm](https://github.com/envenomator/agon-ez80asm)
   program which is even better. Still, it can be fun to poke around in
   HEX. Perhaps I will write my own assembly language monitor for the
   Agon Light someday.
